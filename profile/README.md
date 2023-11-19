@@ -1,2 +1,2 @@
 # lostcode
-## A place where you can put your bot for a game, to compeat it with other bots!
+## A place where you can put your bot for a game, to compete it with other bots!
